@@ -6,14 +6,14 @@ The resulting boundaries can be exported into JSON format.
 
 ## Screenshots
 
-![](/images/image1.JPG)
+<img src="/images/image1.JPG" alt="image1" width="850"/>
 
-![](/images/image2.JPG)
+<img src="/images/image2.JPG" alt="image1" width="850"/>
 
 You can enable and disable the corresponding masks to test the boundaries.
 
-![](/images/image3.JPG)
+<img src="/images/image3.JPG" alt="image1" width="850"/>
 
 The boundaries can be exported to JSON in an easy-to-read format.
 
-![](/images/image4.JPG)
+<img src="/images/image4.JPG" alt="image1" width="850"/>
